@@ -1,0 +1,83 @@
+commit 4ad301e43ed4ddd3fc52c97ad76c55dbb34e73c7
+Author: N0834113 <rishi.singh2018@my.ntu.ac.uk>
+Date:   Sun Feb 9 19:37:05 2020 +0000
+
+    Update parseNMEA.cpp
+
+commit 20c16c4e00b916f3d82e55659834daf21049195f
+Author: N0830182 <dayeeta.das2018@my.ntu.ac.uk>
+Date:   Sun Feb 9 19:14:29 2020 +0000
+
+    Update parseNMEA.cpp
+
+commit 013de311023170779f1e7dfb5ea3198518eb8663
+Author: Rishi <rishi336singh@gmail.com>
+Date:   Fri Feb 7 13:27:49 2020 +0000
+
+    solved error
+
+commit 532634c9da3fe31ce5fba92977f716fbaf0c1cf6
+Author: Dayeeta Das 2018 (N0830182) <n0830182@ntu.ac.uk>
+Date:   Tue Feb 4 18:43:06 2020 +0000
+
+    Function 5 completed successfully!!!
+
+commit 7936a356333d98b64aac540783d732b0a94c07dc
+Author: Dayeeta Das 2018 (N0830182) <n0830182@ntu.ac.uk>
+Date:   Tue Feb 4 18:03:22 2020 +0000
+
+    Function 2 completed!!!
+
+commit 7c71918b83aa8358c9a21d35b1c526b11168d69f
+Author: Dayeeta Das 2018 (N0830182) <n0830182@ntu.ac.uk>
+Date:   Tue Feb 4 15:44:11 2020 +0000
+
+    Function 4 completed! Needs to be checked again.
+
+commit 8e999406c5a0a3634b37b6b6eafc426592f9295b
+Author: Dayeeta Das 2018 (N0830182) <n0830182@ntu.ac.uk>
+Date:   Tue Feb 4 15:27:34 2020 +0000
+
+    Function 4 completed!!!
+
+commit b0a72bf685f2fd501edbd600b702ba9a04fd133d
+Author: Dayeeta Das 2018 (N0830182) <n0830182@ntu.ac.uk>
+Date:   Tue Feb 4 14:11:18 2020 +0000
+
+    Function 3 running successfully!!!
+
+commit 9c0e676b4ae8ebb80bc90ceef5553bc8781fb372
+Author: Dayeeta Das 2018 (N0830182) <n0830182@ntu.ac.uk>
+Date:   Tue Feb 4 14:09:06 2020 +0000
+
+    Function 2 errors detected!!!
+
+commit d7f203aee6714d0d4665e0efb46af5c62bfba226
+Author: Dayeeta Das 2018 (N0830182) <n0830182@ntu.ac.uk>
+Date:   Tue Feb 4 14:02:52 2020 +0000
+
+    Function 1 running successfully!!!
+
+commit b102a0898f35ec950b72ae1aff7b89e36c65b64d
+Author: Neil Sculthorpe <neil.sculthorpe@ntu.ac.uk>
+Date:   Wed Jan 29 06:06:16 2020 +0000
+
+    Changed code for displaying vectors in test cases to ensure strict language compliance.
+
+commit ddbad74611eaf58ddadd229cf37bbf44a320e896
+Author: Neil Sculthorpe <neil.sculthorpe@ntu.ac.uk>
+Date:   Mon Jan 13 13:41:29 2020 +0000
+
+    Added NMEA-Tests program
+
+commit 233fec884d8ebd9a26fbbbd04102c37477d15231
+Author: Neil Sculthorpe <neil.sculthorpe@ntu.ac.uk>
+Date:   Mon Jan 13 13:41:03 2020 +0000
+
+    Added example NMEA log files
+
+commit 38c10f3cc8e690af798690197da45bb60172ff3d
+Author: Neil Sculthorpe <neil.sculthorpe@ntu.ac.uk>
+Date:   Mon Jan 13 13:40:17 2020 +0000
+
+    Initial C++ files
